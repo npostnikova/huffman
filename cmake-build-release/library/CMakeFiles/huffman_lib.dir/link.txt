@@ -1,0 +1,2 @@
+C:\PROGRA~4\MINGW-~1\I686-7~1.0-P\mingw32\bin\ar.exe qc libhuffman_lib.a  CMakeFiles/huffman_lib.dir/counter.cpp.obj CMakeFiles/huffman_lib.dir/huffman_tree.cpp.obj CMakeFiles/huffman_lib.dir/code_list.cpp.obj CMakeFiles/huffman_lib.dir/huffman_compressor.cpp.obj CMakeFiles/huffman_lib.dir/huffman_decompressor.cpp.obj
+C:\PROGRA~4\MINGW-~1\I686-7~1.0-P\mingw32\bin\ranlib.exe libhuffman_lib.a

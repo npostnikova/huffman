@@ -1,0 +1,8 @@
+C:/Users/postn/Documents/CPP/Huffman/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/postn/Documents/CPP/Huffman/cmake-build-release/CMakeFiles/rebuild_cache.dir
+C:/Users/postn/Documents/CPP/Huffman/cmake-build-release/library/CMakeFiles/huffman_lib.dir
+C:/Users/postn/Documents/CPP/Huffman/cmake-build-release/library/CMakeFiles/edit_cache.dir
+C:/Users/postn/Documents/CPP/Huffman/cmake-build-release/library/CMakeFiles/rebuild_cache.dir
+C:/Users/postn/Documents/CPP/Huffman/cmake-build-release/utility/CMakeFiles/Huffman.dir
+C:/Users/postn/Documents/CPP/Huffman/cmake-build-release/utility/CMakeFiles/edit_cache.dir
+C:/Users/postn/Documents/CPP/Huffman/cmake-build-release/utility/CMakeFiles/rebuild_cache.dir
