@@ -1,4 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" C:\Users\postn\Documents\CPP\Huffman
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/postn/Documents/CPP/Huffman/cmake-build-release
